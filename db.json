@@ -1,0 +1,18 @@
+{
+  "contacts": [
+    {
+      "name": "",
+      "number": "",
+      "image": "",
+      "mail": "",
+      "id": 1
+    },
+    {
+      "name": "Nurlan",
+      "number": "0555988555",
+      "image": "https://www.themoviedb.org/t/p/w235_and_h235_face/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg",
+      "mail": "nuriqgh@gmail.com",
+      "id": 3
+    }
+  ]
+}
